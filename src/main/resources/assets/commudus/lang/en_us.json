@@ -1,0 +1,13 @@
+{
+  "itemGroup.commudus": "Example Mod Tab",
+  "block.commudus.example_block": "Example Block",
+  "item.commudus.example_item": "Example Item",
+
+  "commudus.configuration.title": "Commudus Configs",
+  "commudus.configuration.section.commudus.common.toml": "Commudus Configs",
+  "commudus.configuration.section.commudus.common.toml.title": "Commudus Configs",
+  "commudus.configuration.items": "Item List",
+  "commudus.configuration.logDirtBlock": "Log Dirt Block",
+  "commudus.configuration.magicNumberIntroduction": "Magic Number Text",
+  "commudus.configuration.magicNumber": "Magic Number"
+}
