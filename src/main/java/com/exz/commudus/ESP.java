@@ -1,4 +1,4 @@
-// ESP.java
+
 package com.exz.commudus;
 
 import net.minecraft.client.Minecraft;
@@ -23,7 +23,7 @@ public class ESP {
         double camZ = mc.gameRenderer.getMainCamera().getPosition().z;
 
         BlockPos playerPos = mc.player.blockPosition();
-        int radius = 10;
+        int radius = CommudusMenuScreen.espRange; // Use the new ESP range
 
         for (int x = -radius; x <= radius; x++) {
             for (int y = -radius; y <= radius; y++) {
